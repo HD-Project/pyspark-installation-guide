@@ -1,7 +1,5 @@
 # pyspark-installation-guide
-brief explanation on how to install pyspark 
 
-Pyspark installation guide:
 Installing PySpark involves the following steps:
 1.	Install Java Development Kit (JDK) 8 or higher
 2.	Download and install Apache Spark
