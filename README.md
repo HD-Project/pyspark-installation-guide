@@ -31,6 +31,7 @@ Step 2: Download and install Apache Spark The next step is to download and insta
  ![image](https://user-images.githubusercontent.com/25885092/225222591-feda1441-ab1c-46e5-82ed-0b6322ea3a46.png)
 
 •	Download Hadoop winutils.exe
+ https://github.com/steveloughran/winutils/blob/master/hadoop-2.6.0/bin/winutils.exe
  ![image](https://user-images.githubusercontent.com/25885092/225222613-20a54c9d-03d6-4450-8af3-b64a567ce2f5.png)
 
 •	Once the download is complete, put the file to the directory of your choice
